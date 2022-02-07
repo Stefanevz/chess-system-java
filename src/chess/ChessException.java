@@ -1,5 +1,10 @@
 package chess;
 
-public class ChessException {
+public class ChessException  {
 
+	
 }
+	
+	
+	
+
